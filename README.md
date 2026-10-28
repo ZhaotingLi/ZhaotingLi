@@ -5,10 +5,6 @@ I'm a PhD candidate in **Cognitive Robotics at TU Delft**, working with
 I teach robots new skills by learning from people, especially from the corrections we give
 while a robot is practicing, so it keeps getting better with every bit of feedback. 🤖🤝
 
-[![Website](https://img.shields.io/badge/Website-zhaotingli.github.io-1a73e8?style=flat-square&logo=googlechrome&logoColor=white)](https://zhaotingli.github.io)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=KAVUl24AAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhaoting%20Li-0A66C2?style=flat-square)](https://www.linkedin.com/in/zhaoting-li-73813723b/)
-
 ### 🔭 What I'm working on
 - 🧑‍🏫 **Interactive imitation learning**: robots that learn from human corrective feedback, not just perfect demonstrations
 - 🌀 **Diffusion policies** for real-world manipulation
