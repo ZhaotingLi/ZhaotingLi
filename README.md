@@ -25,7 +25,7 @@ while a robot is practicing, so it keeps getting better with every bit of feedba
     <td width="50%" align="center" valign="top">
       <img src="assets/clic.gif" height="220" alt="CLIC desired action set converging"><br>
       <b>CLIC</b> · arXiv 2025<br>
-      From action labels to sets: robust imitation learning from noisy, relative, and partial corrections.<br>
+      From Action Labels to Sets: Rethinking Action Supervision for Imitation Learning from Corrective Feedback. <br>
       <a href="https://clic-webpage.github.io/">🌐 Project</a> ·
       <a href="https://arxiv.org/abs/2502.07645">📄 Paper</a> ·
       <a href="https://github.com/clic-webpage/CLIC">💻 Code</a>
